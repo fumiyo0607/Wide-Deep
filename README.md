@@ -34,3 +34,7 @@ MovieLens20M:
 |Factorization Machines|FactorizationMachines.ipynb|[Factorization Machines](https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf)|
 |Wide and Deep|WideAndDeep.ipynb|[Wide & Deep Learning for Recommender Systems](https://arxiv.org/pdf/1606.07792.pdf)|
 |NeuralFM|NeuralFM.ipynb|[Neural Factorization Machines for Sparse Predictive Analysis](https://arxiv.org/pdf/1708.05027.pdf)|
+
+
+## 引用サイト
+ - [[論文メモ]Wide And Deep Learning](https://qiita.com/michi_wkwk/items/fc99dbdd7bdf4bf2c003#%E5%AE%9F%E8%A3%85)
