@@ -17,8 +17,8 @@ RAM 30G以上
 
 1. データセットを取得しそれぞれのorgディレクトリへ格納   
 それぞれ以下のURLより取得   
-MovieLens100k:    
-MovieLens20M:     
+MovieLens100k:https://www.kaggle.com/rajmehra03/movielens100k
+MovieLens20M:https://www.kaggle.com/grouplens/movielens-20m-dataset#rating.csv     
 
 
 2. CreateClassificationDataset.ipynbを実行しデータセットを作成   
