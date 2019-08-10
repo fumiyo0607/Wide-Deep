@@ -15,7 +15,7 @@ RAM 30G以上
 今回はMovieLensのデータセットを二値分類のタスクで用いることができるようネガティブサンプリングし、かつ訓練／評価／予測用に分割している。   
 
 
-1. データセットを取得しそれぞれのorgディレクトリへ格納   
+1. データセットを取得しそれぞれのディレクトリへ格納   
 それぞれ以下のURLより取得   
 MovieLens100k:https://www.kaggle.com/rajmehra03/movielens100k
 MovieLens20M:https://www.kaggle.com/grouplens/movielens-20m-dataset#rating.csv     
